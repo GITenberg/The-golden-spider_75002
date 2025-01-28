@@ -1,5 +1,8 @@
 _repo: The-golden-spider_75002
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75002-h/images/cover.jpg
 creator:
   author:
     agent_name: Lynde, Francis
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2626
     wikipedia: https://en.wikipedia.org/wiki/Francis_Lynde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75002#The-golden-spider
 gutenberg_issued: '2024-12-31'
 gutenberg_type: Text
 identifiers:
